@@ -62,7 +62,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>TempCal</mainClass>
+                            <mainClass>TempCalc</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
