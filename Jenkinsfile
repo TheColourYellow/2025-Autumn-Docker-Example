@@ -8,7 +8,7 @@ pipeline{
                 // Define Docker Hub repository name
                 DOCKERHUB_REPO = 'madeforworkblue/2025-sdp1-week6-exercise'
                 // Define Docker image tag
-                DOCKER_IMAGE_TAG = 'latest'
+                DOCKER_IMAGE_TAG = 'version1'
             }
     tools{
         maven 'Maven3'
