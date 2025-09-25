@@ -6,7 +6,7 @@ pipeline{
     stages{
         stage('checking'){
             steps{
-                git branch:'master', url:'https://github.com/TheColourYellow/2025-Autumn-Docker-Example.git'
+                git branch:'main', url:'https://github.com/TheColourYellow/2025-Autumn-Docker-Example.git'
             }
         }
 
